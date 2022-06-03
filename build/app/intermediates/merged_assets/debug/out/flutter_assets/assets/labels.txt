@@ -1,0 +1,10 @@
+0 Cat
+1 Dog
+2 Cow
+3 Elephant
+4 Hen
+5 Horse
+6 Monkey
+7 Sheep
+8 Tiger
+9 Squireel

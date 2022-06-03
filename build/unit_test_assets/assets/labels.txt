@@ -1,0 +1,23 @@
+Bear
+Brown bear
+Bull
+Cat
+Cheetah
+Cow
+Crocodile
+Deer
+Dog
+Elephant
+Fox
+Frog
+Goat
+Horse
+Leopard
+Lion
+Mouse
+Pig
+Rabbit
+Rhinoceros
+Sheep
+Snake
+Tiger
